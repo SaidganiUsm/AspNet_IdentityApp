@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0Fpz0CmE8Nq/WB9NsginptfCyn0nHPTDpJGoc7bd9Tc=",
+  "Hash": "qvkU/yUbp0jWlYQi2gkGobWEtWO8OB+PZ+QMZqM3CFE=",
   "Source": "AspnetIdentityRoleBasedApp",
   "BasePath": "_content/AspnetIdentityRoleBasedApp",
   "Mode": "Default",
@@ -2089,6 +2089,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "E:\\Git\\AspNet_IdentityApp\\AspnetIdentityRoleBasedApp\\wwwroot\\Uploads\\f5fa5708-a5b1-41f9-aa0e-be323cf5a934.jpg",
+      "SourceId": "AspnetIdentityRoleBasedApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Git\\AspNet_IdentityApp\\AspnetIdentityRoleBasedApp\\wwwroot\\",
+      "BasePath": "_content/AspnetIdentityRoleBasedApp",
+      "RelativePath": "Uploads/f5fa5708-a5b1-41f9-aa0e-be323cf5a934.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\f5fa5708-a5b1-41f9-aa0e-be323cf5a934.jpg"
     }
   ]
 }
