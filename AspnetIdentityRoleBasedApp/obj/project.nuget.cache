@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TZcOEkd5QByjYu2d8Fc9JKIyoYxCQkmmq+m9C1SvJ/kDMdg3J3Pl8JL9Ynl1SLud7j/eYU3bMJKtReZ4fu41Zw==",
+  "dgSpecHash": "u7Szc1yRgrb0AllecLe4qa1ap06LDlINbsKX+8k9kfMYV+/iISh23fOTBQsaDQyk8Jw68N7DHGP9BSdVNRKIHg==",
   "success": true,
-  "projectFilePath": "E:\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp.csproj",
+  "projectFilePath": "E:\\Git\\AspNet_IdentityApp\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Said\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Said\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

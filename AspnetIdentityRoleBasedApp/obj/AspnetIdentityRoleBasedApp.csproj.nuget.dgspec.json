@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp.csproj": {}
+    "E:\\Git\\AspNet_IdentityApp\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp.csproj": {}
   },
   "projects": {
-    "E:\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp.csproj": {
+    "E:\\Git\\AspNet_IdentityApp\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp.csproj",
+        "projectUniqueName": "E:\\Git\\AspNet_IdentityApp\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp.csproj",
         "projectName": "AspnetIdentityRoleBasedApp",
-        "projectPath": "E:\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp.csproj",
+        "projectPath": "E:\\Git\\AspNet_IdentityApp\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp.csproj",
         "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
-        "outputPath": "E:\\AspnetIdentityRoleBasedApp\\AspnetIdentityRoleBasedApp\\obj\\",
+        "outputPath": "E:\\Git\\AspNet_IdentityApp\\AspnetIdentityRoleBasedApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Said\\AppData\\Roaming\\NuGet\\NuGet.Config",
